@@ -146,7 +146,7 @@
     margin-left: 120px;
     display: flex;
     
-    justify-content:start
+    justify-content:flex-start;
 
   }
   .cc2{
